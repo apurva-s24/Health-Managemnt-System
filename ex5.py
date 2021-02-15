@@ -1,11 +1,3 @@
-# Health Management System
-# 3 clients - Harry, Rohan, Hammad
-# total 6 files...3 file for Diet log and 3 for exercise log
-# write a function that when executed takes as input client name
-# seated shoulder press
-# cable crossover
-# one more function to retrieve exercise or food for any client
-
 
 def getdate():
     import datetime
